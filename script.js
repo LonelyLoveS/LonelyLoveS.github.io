@@ -220,7 +220,12 @@ const mediaData = [
     {
         type: 'image',
         src: 'images/photo6.jpg',
-        comment: 'С 8 Марта!!!'
+        comment: 'Хоть я и немного бываю вштыренный, но...'
+    },
+    {
+        type: 'image',
+        src: 'images/photo7.jpg',
+        comment: 'Поздравляю с 8 Марта!!!)'
     },
     // Добавьте остальные 8 элементов...
 ];
