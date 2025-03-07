@@ -215,7 +215,12 @@ const mediaData = [
     {
         type: 'image',
         src: 'images/photo5.jpg',
-        comment: 'Одни из лучших моментов!'
+        comment: 'Как сказал великий учёный Инштейн(Я) ---'
+    },
+    {
+        type: 'image',
+        src: 'images/photo6.jpg',
+        comment: 'С 8 Марта!!!'
     },
     // Добавьте остальные 8 элементов...
 ];
